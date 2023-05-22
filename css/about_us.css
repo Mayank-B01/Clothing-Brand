@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Pangolin', cursive;
+   
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: 80vh;
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+}
+.container .left{
+    height: 100%;
+    width: 50%;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding-top:50px ;
+}
+img{
+    width: 100%;
+    border-radius: 20rem;
+}
+.detail{
+    text-align: center;
+
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.text{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.shop{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
