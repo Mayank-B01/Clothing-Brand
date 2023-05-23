@@ -55,7 +55,7 @@ header{
     transition-property: background;
 }
 .side-nav a:hover{
-    background: lightsalmon;
+    color: lightsalmon;
 }
 .side-nav i{
     padding-right: 10px;
