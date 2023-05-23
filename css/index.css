@@ -67,7 +67,7 @@ section{
 .home{
     min-height: 100vh;
     width: 100%;
-    background: url(images/Women.jpg);
+    background-image: url("/images/Women.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right top;
