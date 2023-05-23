@@ -116,3 +116,15 @@ header {
     font-size: 20px;
     letter-spacing: 1.5px;
 }
+.top{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+}
+.top i{
+    font-size: 30px;
+    color:#B7CFA5;
+    padding: 14px;
+    background-color:lightcoral ;
+    border-radius: 50%;
+}
