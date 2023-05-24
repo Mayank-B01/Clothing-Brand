@@ -60,3 +60,14 @@ button:hover{
 .link{
     margin-top: 40px;
 }
+.admin{
+    position: absolute;
+    right: 50px;
+    border-radius: 30px;
+    background: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: black solid;
+    font-size: 20px;
+    top: 110px;
+}

@@ -13,7 +13,7 @@ section{
 .home{
     min-height: 100vh;
     width: 100%;
-    background-image: url("Women.jpg");
+    background-image: url("/images/Women.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right top;
@@ -55,7 +55,7 @@ section{
 header.sticky{
     background:whitesmoke ;
     padding: 14px 14%;
-    box-shadow: 0px 0px 50px rgb(0 0 0 / 10%);
+    box-shadow: 0px 0px 50px rgb(0 0 0 / .2);
 }
 .text{
     text-align: center;
