@@ -17,10 +17,7 @@ header{
     font-size: 22px;
     font-weight: 900;
 }
-.left_side span{
-    color: aqua;
 
-}
 .side-nav{
     background-color:#61A658 ;
     margin-top: 70px;
@@ -74,7 +71,7 @@ label #nav_btn{
     transition-property: color;
 } 
 label #nav_btn:hover{
-    color: aqua;
+    color: black;
 }
 #check:checked ~ .side-nav{
     left: -100%;

@@ -7,6 +7,6 @@ let menu = document.querySelector('#menu-icon');
 let navigation = document.querySelector('.navigation');
 
 menu.onclick = () => {
-    menu.classList.toggle('fa-a');
+    menu.classList.toggle('fa-fa');
     navigation.classList.toggle('open'); 
 };

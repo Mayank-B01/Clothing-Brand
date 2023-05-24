@@ -22,11 +22,7 @@ h1{
     font-size: 30px;
     border-radius: 20%;
 }
-.btn{
-    margin: 30px;
-    font-size: 20px;
-    border-radius: 10%;
-}
+
 .btn:hover{
     background-color: black;
     color: white;
@@ -38,4 +34,28 @@ h1{
     justify-content: space-between;
     font-size: 30px;
     border-radius: 20%;
+}
+.option button:hover{
+    background-color: black;
+    color: white;
+}
+.btn1{
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 10%;
+    background-color: lightgreen;
+    cursor: pointer;
+}
+.btn2{
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 10%;
+    background-color: tomato;
+    cursor: pointer;
+}
+.btn1:hover{
+    transform: scale(1.1) translateY(-5px);
+}
+.btn2:hover{
+    transform: scale(1.1) translateY(5px);
 }
